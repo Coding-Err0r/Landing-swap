@@ -114,7 +114,7 @@ _Copy the repo & install node modules. Then give the environment variables & run
 
 1. Clone repo
    ```sh
-   git clone https://github.com/Coding-Err0r/Dorac-Marketplace.git
+   git clone https://github.com/Coding-Err0r/Landing-swap.git
    ```
 2. Install Node modules
    ```sh
@@ -168,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@ErrorrCoding](https://twitter.com/ErrorrCoding) - rhine.cse@gmail.com
 
-Project Link: [Porject Link](https://github.com/Coding-Err0r/Dorac-Marketplace.git)
+Project Link: [Porject Link](https://github.com/Coding-Err0r/Landing-swap.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
